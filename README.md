@@ -1,0 +1,1 @@
+# Hareketli-Ortalama-MA-
